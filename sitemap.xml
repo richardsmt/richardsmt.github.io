@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>richardsmt.github.io/post/2018-11-04-gaming-progress-procrastination/</loc>
+    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>richardsmt.github.io/post/2017-06-17-decentralized-currency-individual/</loc>
     <lastmod>2017-06-19T18:02:45-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -38,14 +45,14 @@
   
   <url>
     <loc>richardsmt.github.io/post/</loc>
-    <lastmod>2017-06-19T18:02:45-04:00</lastmod>
+    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>richardsmt.github.io/</loc>
-    <lastmod>2017-06-19T18:02:45-04:00</lastmod>
+    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
