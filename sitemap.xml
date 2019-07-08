@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>/post/2017-08-14-why-so-many-coins/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/2017-06-17-decentralized-currency-individual/</loc>
     <lastmod>2017-06-19T18:02:45-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -38,7 +45,21 @@
   </url>
   
   <url>
+    <loc>/tags/bitcoin/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cryptocurrencies/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -59,6 +80,7 @@
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

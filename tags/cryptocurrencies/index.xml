@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cryptocurrencies on Smarter Worlds</title>
+    <link>/tags/cryptocurrencies/</link>
+    <description>Recent content in Cryptocurrencies on Smarter Worlds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cryptocurrencies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why so many coins ?</title>
+      <link>/post/2017-08-14-why-so-many-coins/</link>
+      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-08-14-why-so-many-coins/</guid>
+      <description>At the time of writing, there are 1059 cryptocurrencies listed of the coinmarketcap.com, ( the go-to website for price, market information ). The list starts with Bitcoin, Ethereum and Ripple at the top and ends with ELcoin, microCoin and Turbocoin.
+The question : why do many coins ? Do we really need so many different digital currencies ? Is it even conceivable that even 50 of them have a stable long term future.</description>
+    </item>
+    
+  </channel>
+</rss>
