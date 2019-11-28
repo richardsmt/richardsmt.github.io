@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Smarter Worlds</title>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Bitcoin</title>
+      <title>bitcoin</title>
       <link>/tags/bitcoin/</link>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Cryptocurrencies</title>
+      <title>cryptocurrencies</title>
       <link>/tags/cryptocurrencies/</link>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       
